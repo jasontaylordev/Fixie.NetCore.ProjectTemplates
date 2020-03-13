@@ -1,0 +1,12 @@
+{
+	"$schema": "http://json.schemastore.org/template",
+	"author": "Jason Taylor",
+	"classifications": [ "Test", "Fixie" ],
+	"identity": "Fixie.NetCore.CSharp",
+	"name": "Fixie Test Project",
+	"shortName": "fixie",
+	"tags": {
+		"language": "C#",
+		"type": "project"
+	}
+}
