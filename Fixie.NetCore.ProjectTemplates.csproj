@@ -5,10 +5,19 @@
     <PackageVersion>1.0.0</PackageVersion>
     <PackageId>Fixie.NetCore.ProjectTemplates</PackageId>
     <Title>Fixie .NET Core Project Template</Title>
-    <Authors>Me</Authors>
+    <Authors>Jason Taylor</Authors>
     <Description>A project that contains Fixie tests that can run on .NET Core on Windows, Linux, and MacOS.</Description>
     <PackageTags>dotnet-new;templates;fixie</PackageTags>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/jasontaylordev/Fixie.NetCore.ProjectTemplates</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jasontaylordev/Fixie.NetCore.ProjectTemplates.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryBranch>master</RepositoryBranch>
+
+    <PackageReleaseNotes>Initial version supporting Fixie 2.2.0 on .NET Core 3.1.</PackageReleaseNotes>
 
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
@@ -16,6 +25,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="icon.png" Pack="true" PackagePath=""/>
     <Content Include="templates\**\*" Exclude="templates\**\bin\**;templates\**\obj\**" />
     <Compile Remove="**\*" />
   </ItemGroup>
