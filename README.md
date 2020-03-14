@@ -4,7 +4,7 @@
 A project that contains Fixie tests that can run on .NET Core on Windows, Linux, and MacOS. The initial version supports Fixie 2.2.0 on .NET Core 3.1.
 
 ## Quick Start
-Fixie is a .NET test framework similar to NUnit and xUnit, but with an emphasis on low-ceremony defaults and flexible customization.
+Fixie is a .NET test framework similar to NUnit and xUnit, but with an emphasis on low-ceremony defaults and flexible customization. Official documentaion can be found at https://fixie.github.io.
 
 Install the .NET Core project template:
 
