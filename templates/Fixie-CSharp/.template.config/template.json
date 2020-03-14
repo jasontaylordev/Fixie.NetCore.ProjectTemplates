@@ -4,6 +4,8 @@
 	"classifications": [ "Test", "Fixie" ],
 	"identity": "Fixie.NetCore.CSharp",
 	"name": "Fixie Test Project",
+	"sourceName": "Company.TestProject1",
+	"preferNameDirectory": true,
 	"shortName": "fixie",
 	"tags": {
 		"language": "C#",

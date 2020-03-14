@@ -1,5 +1,5 @@
 # Fixie .NET Core Project Template
-[![Fixie.NetCore.ProjectTemplates](https://img.shields.io/badge/nuget-1.0.0-blue)](https://www.nuget.org/packages/Fixie.NetCore.ProjectTemplates) [![Twitter Follow](https://img.shields.io/twitter/follow/jasontaylordev.svg?style=social&label=Follow)](https://twitter.com/jasontaylordev)
+[![Fixie.NetCore.ProjectTemplates](https://img.shields.io/badge/nuget-1.0.1-blue)](https://www.nuget.org/packages/Fixie.NetCore.ProjectTemplates) [![Twitter Follow](https://img.shields.io/twitter/follow/jasontaylordev.svg?style=social&label=Follow)](https://twitter.com/jasontaylordev)
 
 A project that contains Fixie tests that can run on .NET Core on Windows, Linux, and MacOS. The initial version supports Fixie 2.2.0 on .NET Core 3.1.
 

@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageType>Template</PackageType>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <PackageId>Fixie.NetCore.ProjectTemplates</PackageId>
     <Title>Fixie .NET Core Project Template</Title>
     <Authors>Jason Taylor</Authors>
@@ -17,7 +17,7 @@
     <RepositoryType>git</RepositoryType>
     <RepositoryBranch>master</RepositoryBranch>
 
-    <PackageReleaseNotes>Initial version supporting Fixie 2.2.0 on .NET Core 3.1.</PackageReleaseNotes>
+    <!-- <PackageReleaseNotes>Initial version supporting Fixie 2.2.0 on .NET Core 3.1.</PackageReleaseNotes> -->
 
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
